@@ -1,0 +1,63 @@
+hey gpt i participate in hackathon and my problem statement is given below
+2. Social Good & Civic Tech
+Problem: Marginalized communities often struggle to access public services or influence policy decisions that affect them, limiting their ability to drive positive social change.
+Example Idea: Create a civic engagement platform:
+    ● Community Initiatives: Crowdsourcing ideas for public improvement, such as waste management or park development.
+    ● Access to Services: Streamlined interfaces for applying for government benefits, reporting issues, or accessing health services.
+    ● Policy Participation: Tools for tracking local government actions, participating in surveys, or contacting representatives.
+
+in this there total 4 roles normal user, regional officer, ministory or state governments, super admin
+
+for normal user there are 5 major functionalities in app
+1. blogs
+    user can read react and comment on blogs
+
+2. AI Chatbot
+
+3. Community Page
+    add Community related issues, vote for issues, view report and comment on issues
+
+4. government benifits
+    see government benifits which useful them local government actions and in that government actions can only add by regional officers
+
+5. health assistants
+    see near government health center and their facilities
+
+for normal regional officer there are 5 major functionalities in app
+1. manage government actions
+
+2. View and Review Issues Raised by Community
+
+3. Official Regional Announcements
+
+4. communities issues statistics
+    - issue tracking, action performance
+
+5. view limited data of user
+
+6. critical communities issue send to higher authorities (optional)
+
+for ministory and state government there are 5 major functionalities in app
+1. Manage regional officers management
+    - Add, update, remove and delete 
+
+2. oversight issue tracking
+    aggregated issue tracking
+    government action monitoring
+    performance monitoring of regional officers on issues 
+
+3. manage and analyse government scheme
+
+4. arrange survey and people openions
+
+for Super admin there are 2 major functionalities in app
+1. user management
+2. platform monitoring and maintanance
+    - system health
+    - security management
+    - data backup
+    - data analyse
+
+
+
+https://chatgpt.com/canvas/shared/67a62a5623c881919af7367fb741c0e9
