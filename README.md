@@ -60,3 +60,18 @@ flutter run
 | Platform | Android, iOS |
 
 ---
+
+# 👨‍💻 Author
+
+## Yash Patel
+
+**Aspiring Data Scientist | Machine Learning Enthusiast**
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/yash-patel-67a885366/)*
+- 💻 GitHub: *((https://github.com/Yashpatel187)*
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a **Star ⭐** on GitHub.
